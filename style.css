@@ -1,0 +1,180 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*menu starts*/
+#menu .get{
+    display: flex;
+    margin-left: 150px;
+      
+}
+#menu .get h3{
+    margin-right: 600px;
+}
+#menu{
+    background-color: #016bb2; 
+}
+/*menu ends*/
+/*homeloans starts*/
+#homeloans .m1{
+    display: flex;
+    margin-left: 150px;
+    padding-top: 10px;
+}
+#homeloans .m2{
+    margin-right:300px ;
+}
+#homeloans nav a{
+    text-decoration: none;
+    padding: 5px;
+}
+#homeloans nav a:hover{
+    color: red;
+}
+#homeloans nav button{
+    padding: 5px;
+    border:2px solid white;
+}
+#homeloans .a1{
+    margin: 100px;
+    line-height: 30px;
+    margin-left: 150px;
+}
+#homeloans .a1 button{
+    background-color:#6fba43;
+    padding: 10px 20px;
+    border: 2px solid #6fba43;
+}
+#homeloans{
+   background-image: url(images/bgpic.jpg);
+   background-size: 100% 100%;
+    height: 350px;
+}
+/*homeloans ends*/
+/*rates starts*/
+#rates h1{
+    color:#2e597c ;
+    margin: 25px 370px;
+}
+#rates p{
+    width: 70%;
+    text-align: center;
+    margin-left: 200px;
+}
+#rates button{
+    padding: 10px 15px;
+    margin: 25px 500px;
+}
+/*rates ends*/
+/*online stats*/
+#online{
+    background-color: #016bb2;
+}
+#online .o1{
+    text-align: center;
+    padding: 30px 0;
+    color: white;
+}
+#online .row{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 100px;
+    padding-bottom: 60px;
+    color: white;
+}
+#online .row .col i{
+    padding: 0 100px;
+    
+}
+/*online ends*/
+/*name starts*/
+#name .sub{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    color: #026ab1;
+}
+#name .row{
+    display: flex;
+    margin-bottom: 40px;
+}
+#name .row .col1 img{
+    width: 300px;
+    height: 250px;
+    margin-left: 250px;
+    margin-right: 60px;
+}
+#name .row .col2 i{
+    display: block;
+    color: #026ab1 ;
+}
+#name .row .col2 .line{
+    height: 63px;
+    width: 1px;
+    border: 1px solid grey;
+    margin: auto;
+}
+#name .row .col3{
+    margin-left: 30px;
+}
+/*name ends*/
+/*banner stsrts*/
+#banner .row .col{
+    display: flex;
+}
+#banner .row{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+    color: white;
+}
+#banner{
+    background-color: #026ab1 ;
+}
+#banner .row .col button{
+    padding: 10px;
+    margin: 20px;
+    background-color: #026ab1 ;
+    color: white;
+    border: 2px solid white;
+}
+/*banner ends*/
+/*white starts*/
+#white .sub{
+    text-align: center;
+    color: #026ab1;
+    padding: 20px 0;
+}
+#white .sub i{
+    color:grey;
+    padding: 5px 0;
+}
+#white .sub1{
+    text-align: center;
+    padding:0 100px ;
+}
+#white .sub1 h3{
+    padding: 15px 0;
+    color: #6fba43;
+}
+#white .sub1 button{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: white;
+    margin: 5px 0 30px 0;
+    margin-bottom: 50px;
+}
+/*white ends*/
+/*last starts*/
+#last p{
+    text-align: center;
+    border: 2px solid  #026ab1;
+    padding: 10px 0;
+    background-color: #016bb2;
+}
+/*last ends*/
+
+
+
+
